@@ -5,6 +5,6 @@ postInterviewEmail
 interviewRequestResponse
 sendingResumeEmail
 '''
-echo "Enter an argument for mclip:"
+echo "Enter a KeyPhrase for emailTemplates:"
 read ANYTHING 
 python3 /Users/maximillianmata/Documents/Programming/Python/Automate-The-Boring-Stuff/Chapter-05/emailTemplates.py $ANYTHING
